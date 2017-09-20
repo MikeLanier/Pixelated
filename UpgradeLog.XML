@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pixelated">
+</Property><Property Name="Solution File" Value="C:\Mike\Stuff\Pixelated\Pixelated.sln">
+</Property><Property Name="Date" Value="Wednesday, September 20, 2017">
+</Property><Property Name="Time" Value="6:31 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pixelated.sln" Description="File successfully backed up as C:\Mike\Stuff\Pixelated\Pixelated.sln.old">
+</Event><Event ErrorLevel="0" Project="Pixelated" Source="Pixelated.vcproj" Description="Converting project file 'C:\Mike\Stuff\Pixelated\Pixelated.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Pixelated" Source="Pixelated.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Pixelated" Source="Pixelated.vcproj" Description="Done converting to new project file 'C:\Mike\Stuff\Pixelated\Pixelated.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Pixelated" Source="Pixelated.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pixelated.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pixelated.sln" Description="Converted">
+</Event></UpgradeLog>
